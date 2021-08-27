@@ -7,9 +7,9 @@
 - Soochow University
 - Email: xuejunma@suda.edu.cn
 ##   Time and Venue: 
-Monday: 13:30--16:30, 精正楼 306
+ Wednesday: 08:00-12:00,  博远楼307
 ## Office Hour: 
- Thursday: 14:00-16:00, 维格堂 215.
+ Tuesday: 09:00-11:00, 维格堂 215.
 ## Textbook:
 - Statistical Inference by George Casella and Roger L. Berger
 - Mathematical Statistics by Jun Shao.
